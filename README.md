@@ -1,2 +1,2 @@
-# Solidity-AccessControl-RBAC-
-RBAC
+# Solidity-AccessControl-RBAC
+Role Based Access Controling using Solidity "Roles" library
